@@ -1,1 +1,3 @@
 "Animal Animal" 
+"Wolf"
+"Fox"
